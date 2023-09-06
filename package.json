@@ -1,0 +1,11 @@
+{
+  "name": "multiplex",
+  "version": "0.0.0",
+  "main": "src/index.ts",
+  "repository": "https://github.com/notwillk/multiplex",
+  "author": "notwillk <44582272+notwillk@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
